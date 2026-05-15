@@ -1,6 +1,6 @@
 {
-    "name": "maff_app",
-    "short_name": "maff_app",
+    "name": "web_push_notification",
+    "short_name": "web_push_notification",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
